@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="22" viewBox="0 0 30 22">
+  <path id="Rectángulo_4" data-name="Rectángulo 4" d="M2,2V4.8H4.8V2H2M2,0H4.8a2,2,0,0,1,2,2V4.8a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" fill="#fff"/>
+  <path id="Rectángulo_5" data-name="Rectángulo 5" d="M2,2V4.8H4.8V2H2M2,0H4.8a2,2,0,0,1,2,2V4.8a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(0 7.6)" fill="#fff"/>
+  <path id="Rectángulo_6" data-name="Rectángulo 6" d="M2,2V4.8H4.8V2H2M2,0H4.8a2,2,0,0,1,2,2V4.8a2,2,0,0,1-2,2H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" transform="translate(0 15.2)" fill="#fff"/>
+  <rect id="Rectángulo_7" data-name="Rectángulo 7" width="19.64" height="3.2" rx="1.6" transform="translate(10.36 2)" fill="#fff"/>
+  <path id="Rectángulo_7_-_Contorno" data-name="Rectángulo 7 - Contorno" d="M1.4,1a.567.567,0,0,0-.526.6.567.567,0,0,0,.526.6H18.238a.567.567,0,0,0,.526-.6.567.567,0,0,0-.526-.6H1.4m0-1H18.238a1.511,1.511,0,0,1,1.4,1.6,1.511,1.511,0,0,1-1.4,1.6H1.4A1.511,1.511,0,0,1,0,1.6,1.511,1.511,0,0,1,1.4,0Z" transform="translate(10.36 2)" fill="#fff"/>
+  <rect id="Rectángulo_8" data-name="Rectángulo 8" width="19.64" height="3.2" rx="1.6" transform="translate(10.36 9.6)" fill="#fff"/>
+  <path id="Rectángulo_8_-_Contorno" data-name="Rectángulo 8 - Contorno" d="M1.4,1a.567.567,0,0,0-.526.6.567.567,0,0,0,.526.6H18.238a.567.567,0,0,0,.526-.6.567.567,0,0,0-.526-.6H1.4m0-1H18.238a1.511,1.511,0,0,1,1.4,1.6,1.511,1.511,0,0,1-1.4,1.6H1.4A1.511,1.511,0,0,1,0,1.6,1.511,1.511,0,0,1,1.4,0Z" transform="translate(10.36 9.6)" fill="#fff"/>
+  <rect id="Rectángulo_9" data-name="Rectángulo 9" width="19.64" height="3.2" rx="1.6" transform="translate(10.36 17.2)" fill="#fff"/>
+  <path id="Rectángulo_9_-_Contorno" data-name="Rectángulo 9 - Contorno" d="M1.4,1a.567.567,0,0,0-.526.6.567.567,0,0,0,.526.6H18.238a.567.567,0,0,0,.526-.6.567.567,0,0,0-.526-.6H1.4m0-1H18.238a1.511,1.511,0,0,1,1.4,1.6,1.511,1.511,0,0,1-1.4,1.6H1.4A1.511,1.511,0,0,1,0,1.6,1.511,1.511,0,0,1,1.4,0Z" transform="translate(10.36 17.2)" fill="#fff"/>
+</svg>

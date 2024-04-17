@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571586478863",
+    "project_id": "powernet-push",
+    "storage_bucket": "powernet-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571586478863:android:4667a3cf800857be2af47a",
+        "android_client_info": {
+          "package_name": "powernet.idrix.com.powernet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571586478863-pv1ei9kj8hh6kai586g49sgg6949qcl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVOnf8vlR2a4AAqwgikkCUSUxj4QDzbMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571586478863-pv1ei9kj8hh6kai586g49sgg6949qcl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
